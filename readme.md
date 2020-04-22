@@ -78,5 +78,6 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 3. php artisan key:generate
 4. create database
 5. import sql at folder db
-6. now php artisan serve to run
+6. setting .env DB_DATABASE same your create database & setting DB_USERNAME, DB_PASSWORD aslo
+7. now php artisan serve to run
 
